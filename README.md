@@ -38,7 +38,7 @@ security scans are conducted throughout the pipeline.
 
 ##### **Servers and Software Installed:**
 
-![](./media/image7.png){width="6.5in" height="1.4583333333333333in"}
+![](./media/image7.png)
 
 1.  **Jenkins Server**:
 
@@ -70,12 +70,12 @@ security scans are conducted throughout the pipeline.
 -   **Security Groups** assigned for required ports (application,
     Kubernetes API, SSH, etc.).
 
-![](./media/image3.png){width="6.5in" height="2.0277777777777777in"}
+![](./media/image3.png)
 
 -   **Credentials** for secure communication between Jenkins,
     Kubernetes, Nexus, and SonarQube.
 
-![](./media/image9.png){width="6.5in" height="2.2916666666666665in"}
+![](./media/image9.png)
 
 -   **Kubernetes Authentication**: Service accounts and roles set up for
     Jenkins to interact with Kubernetes securely.
@@ -192,28 +192,24 @@ security scans are conducted throughout the pipeline.
 
 1.  Web Application
 
-> ![](./media/image6.png){width="6.5in" height="3.4166666666666665in"}
+> ![](./media/image6.png)
 
 2.  Sonarqube
 
-> ![](./media/image11.png){width="6.5in"
-> height="3.486111111111111in"}![](./media/image13.png){width="6.5in"
-> height="3.4166666666666665in"}
+> ![](./media/image11.png)
+> ![](./media/image13.png)
 >
-> ![](./media/image12.png){width="6.5in" height="3.4166666666666665in"}
-
+> ![](./media/image12.png)
 3.  Nexus
 
-> ![](./media/image5.png){width="6.5in" height="2.75in"}
-
+> ![](./media/image5.png)
 4.  Prometheus
 
-> ![](./media/image4.png){width="6.5in" height="3.236111111111111in"}
-
+> ![](./media/image4.png)
 5.  Grafana
 
-> ![](./media/image8.png){width="6.5in" height="1.7222222222222223in"}
+> ![](./media/image8.png)
 >
-> ![](./media/image2.png){width="6.5in" height="3.2916666666666665in"}
+> ![](./media/image2.png)
 >
-> ![](./media/image10.png){width="6.5in" height="3.2222222222222223in"}
+> ![](./media/image10.png)
