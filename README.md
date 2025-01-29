@@ -1,4 +1,4 @@
-# Automated CI/CD Pipeline with Jenkins, Docker, Kubernetes, SonarQube, Nexus, and Monitoring Tools
+# Cloud-Native CICD Pipeline Automation - BoardGame Web Hosting
 
 ## Project Overview
 
