@@ -2,7 +2,7 @@
 
 #### **Project Overview**
 
-![](./media/architecture.png)
+![](./media/image1.png)
 
 This project demonstrates the implementation of a fully automated CI/CD
 pipeline for a web application using Jenkins, Docker, Kubernetes,
